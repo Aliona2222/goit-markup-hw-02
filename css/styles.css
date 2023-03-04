@@ -41,9 +41,6 @@ body {
   line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
-}
-
-.logo-web {
   color: var(--primary-brand-color);
 }
 
@@ -52,7 +49,7 @@ body {
 }
 
 .logo-studio-light {
-  color: var(--secondary-text-color);
+  color: #f4f4fd;
 }
 
 .menu {
