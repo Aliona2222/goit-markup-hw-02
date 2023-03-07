@@ -28,7 +28,6 @@ body {
 
 /* HEADER */
 .page-header {
-  background-color: var(--light-background-color);
 }
 
 .page-nav {
@@ -69,7 +68,6 @@ body {
 .menu-link:hover,
 .menu-link:focus {
   color: var(--pressed-state-color);
-  background-color: var(--pressed-state-color);
 }
 
 .contact-info {
